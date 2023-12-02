@@ -1,0 +1,14 @@
+/home/vsk/Shuplik/wool/bin/Debug/net7.0/wool
+/home/vsk/Shuplik/wool/bin/Debug/net7.0/wool.deps.json
+/home/vsk/Shuplik/wool/bin/Debug/net7.0/wool.runtimeconfig.json
+/home/vsk/Shuplik/wool/bin/Debug/net7.0/wool.dll
+/home/vsk/Shuplik/wool/bin/Debug/net7.0/wool.pdb
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.GeneratedMSBuildEditorConfig.editorconfig
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.AssemblyInfoInputs.cache
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.AssemblyInfo.cs
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.csproj.CoreCompileInputs.cache
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.dll
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/refint/wool.dll
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.pdb
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/wool.genruntimeconfig.cache
+/home/vsk/Shuplik/wool/obj/Debug/net7.0/ref/wool.dll
